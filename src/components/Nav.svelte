@@ -59,6 +59,7 @@
 	<ul>
 		<li><a aria-current="{segment === undefined ? 'page' : undefined}" href=".">Home</a></li>
 		<li><a aria-current="{segment === 'about' ? 'page' : undefined}" href="about">About</a></li>
+		<li><a aria-current="{segment === 'skillset' ? 'page' : undefined}" href="skillset">Skill Set</a></li>
 		<li><a aria-current="{segment === 'contact' ? 'page' : undefined}" href="contact">Contact</a></li>
 
 
