@@ -30,7 +30,7 @@
 	.tiny {
 		font-size: 20px;
 		font-family: 'Oswald', sans-serif;
-		color: rgb(38,183,255);
+		color: rgb(32,234,69);
 	}
 
 	.about {
@@ -39,13 +39,13 @@
 	}
 
 	.color {
-		color: rgb(38,183,255);
+		color: rgb(32,234,69);
 	}
 
-	@media (min-width: 480px) {
+	/* @media (min-width: 480px) {
 		.header {
 			font-size: 4em;
 		}
-	}
+	} */
 </style>
 

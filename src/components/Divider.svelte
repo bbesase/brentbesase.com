@@ -13,7 +13,7 @@
   div {
     font-family: 'Indie Flower', cursive;
     color: rgb(237,237,237);
-    font-size: 6vh;
+    font-size: 4vh;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.45);
     display: flex;
     justify-content: center;
