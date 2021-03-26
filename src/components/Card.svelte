@@ -11,9 +11,7 @@
 </svelte:head>
 
 <div class="container-fluid">
-	<div
-		class="col-lg-6 col-lg-offset-0 col-md-6 col-md-offset-0 col-sm-10 col-sm-offset-1 col-xs-12"
-	>
+	<div>
 		<figure>
 			<div
 				class="media"

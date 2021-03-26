@@ -5,8 +5,12 @@
 
 <script>
   export let text = '';
+
+  const firstCharacter = text.charAt(0);
+  const restOfText = text.substring(1, text.length);
 </script>
 
+<!-- <div><span class="flicker">{firstCharacter}</span> {restOfText}</div> -->
 <div>{text}</div>
 
 <style>
